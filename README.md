@@ -1,6 +1,6 @@
 ## Staking Contract
 
-Simplified Staking.
+Simplified Staking Contract
 
 A Staking Project where there are 3 roles involved.
 
